@@ -18,3 +18,4 @@ If a project board has already been created for that project, the issue should a
 1. [Create a new project](https://github.com/DavidAlt/MHSG/projects/new)
 1. Set the template to "Automated kanban"
 1. Click "Create Project"
+1. Remember to create an issue to track the project on the [Project Tracker](https://github.com/DavidAlt/MHSG/projects/5)! *("Requesting or proposing a project")*
