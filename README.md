@@ -5,7 +5,7 @@ This repository is used for MHS Genesis projects and knowledge.
 1. Assign the "proposal" label.
 1. Assign the "Project Tracker" label.
 
-The proposal will automatically move to the "Proposed" section on [the Project Tracker board](https://github.com/DavidAlt/MHSG/projects/5). From there, you can move it to the "Approved" or "In Progress" lists as applicable.
+The proposal will automatically move to the "Proposed" section on the [Project Tracker](https://github.com/DavidAlt/MHSG/projects/5) board. From there, you can move it to the "Approved" or "In Progress" lists as applicable.
 
 ## Adding tasks to an existing project
 1. [Create a new issue](https://github.com/DavidAlt/MHSG/issues/new)
