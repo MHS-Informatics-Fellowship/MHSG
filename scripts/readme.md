@@ -1,1 +1,0 @@
-This folder will store MHSG scripts. Each file should include a full description of what it does, where it came from, and how to use it.
